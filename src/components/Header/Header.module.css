@@ -1,0 +1,26 @@
+.container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  z-index: 999;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.linkContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.activeLink {
+  color: pink;
+}

@@ -1,0 +1,11 @@
+.form {
+  padding-top: 10px;
+}
+
+.input {
+  padding: 10px;
+  display: block;
+  width: 20%;
+  margin: 0 auto;
+  display: block;
+}
